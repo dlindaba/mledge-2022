@@ -1,7 +1,7 @@
-## ML At The Edge @ <a target='_blank' href='https://deeplearningindaba.com/2022/'> Indaba 2022</a>
+## ML At The Edge
 
 {% if jekyll.environment  == "production" %}
-{% assign basepath = "/indaba" %}
+{% assign basepath = "/mledge-2022" %}
 {%else%}
 {% assign basepath = "" %}
 {% endif %}
