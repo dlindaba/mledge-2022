@@ -1,0 +1,27 @@
+theme: jekyll-theme-cayman
+description: "Machine Learning at the Edge Workshop, <br/> Deep Learning Indaba 2022.  Tunisia"
+basepath: "mledge2022/"
+google_analytics: UA-156425047-1
+
+navigation:
+  - text: HOME
+    url: /
+  - text: CALL FOR PAPERS
+    url: /cfp.html
+  - text: CALL FOR DEMOS
+    url: /demos.html
+  - text: DATES
+    url: /dates.html
+    layout: project
+  - text: SCHEDULE
+    url: /schedule.html
+    layout: post
+  # - text: PAPERS
+  #   url: /papers.html
+  #   layout: post
+  # - text: INSTRUCTIONS
+  #   url: /instructions.html
+  # - text: VIRTUAL
+  #   url: /virtual.html
+  - text: ORGANIZERS
+    url: /organizers.html
