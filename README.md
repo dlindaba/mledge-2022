@@ -4,8 +4,12 @@ This repo hosts the workshop website for the machine learning at the edge worksh
 
 ## Updating Site Content
 
-The website is built using Jekyll and hosted on Github Pages. Files for the website are in the [`docs`](/docs) directory.
+The website is built using Jekyll and hosted on Github Pages. Files for the website are in the [`docs`](/docs) directory. Each page is represented by a markdown `.md` document. E.g. the index page is `README.md`, the call for papers is `cfp.md`, the organizers page is `organizers.md`, etc. To update the website, use the following steps
 
-Each page is represented by a markdown `.md` document. E.g. the index page is `README.md`, the call for papers is `cfp.md`, the organizers page is `organizers.md`, etc.
+- Clone the repo (or edit files in the `docs` directory directly via the github interface)
+- Optionally test your changes locally. Please [follow the steps here](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll) to install jekyll locally and run a server.
+- Once you are happy with your changes, push your changes to the repo. This will automatically rebuild and [serve the website here](https://mlatedge.github.io/mledge-2022/).
+
+And that's it!
 
 Please feel free to make direct changes or suggest changes via a PR or issue.
