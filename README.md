@@ -1,6 +1,6 @@
 ## Machine Learning at the Edge Workshop, Deep Learning Indaba 2022
 
-This repo hosts the workshop website for the machine learning at the edge workshop at the 2022 Deep Learning Indaba.
+This repo hosts the [website](https://mlatedge.github.io/mledge-2022/) for the machine learning at the edge workshop at the 2022 Deep Learning Indaba.
 
 ## Updating Site Content
 
