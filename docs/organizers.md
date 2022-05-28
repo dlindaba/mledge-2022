@@ -47,7 +47,7 @@
        <img src="{{basepath}}/images/organizers/sara.png" class="headshot">
       </a>
         <div class="headshotname"> Sara Hooker </div>
-        <a href="https://www.sarahooker.me/"  target='_blank' class="headshotaffiliation"> CoHere </a>
+        <a href="https://www.sarahooker.me/"  target='_blank' class="headshotaffiliation"> Google  </a>
     </div>
 
 </div>
