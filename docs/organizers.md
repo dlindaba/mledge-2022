@@ -6,7 +6,7 @@
         {% assign basepath = "" %}
         {% endif %}
 
-<div>
+ <div>
 
    <div class="iblock headshotbox ">
      <a   target='_blank'  href="https://orevaahia.github.io/">
@@ -14,6 +14,16 @@
       </a>
         <div class="headshotname"> Orevaoghene Ahia </div>
         <a href="https://orevaahia.github.io/"  target='_blank' class="headshotaffiliation"> University of Washington </a>
+    </div>
+
+     <div class="iblock headshotbox ">
+     <a   target='_blank'  href="https://www.sarahooker.me/">
+       <img src="{{basepath}}/images/organizers/daniel.jpeg" class="headshot">
+      </a>
+        <div class="headshotname"> Daniel Situnayake</div>
+        <a href="https://www.linkedin.com/in/situnayake/"  target='_blank' class="headshotaffiliation"> Head of ML at Edge Impulse
+
+  </a>
     </div>
 
      <div class="iblock headshotbox ">
@@ -47,7 +57,7 @@
        <img src="{{basepath}}/images/organizers/sara.png" class="headshot">
       </a>
         <div class="headshotname"> Sara Hooker </div>
-        <a href="https://www.sarahooker.me/"  target='_blank' class="headshotaffiliation"> Google  </a>
+        <a href="https://www.sarahooker.me/"  target='_blank' class="headshotaffiliation"> Cohere for AI  </a>
     </div>
 
 </div>

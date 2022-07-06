@@ -1,45 +1,25 @@
-## Call For Papers
+## Call For Spotlight Talks
 
-Constraints introduced by low resource environments such edge devices (microcontrollers, microprocessors, browsers) can necessitate alternative approaches to conventional ML problems. We encourage papers that address (but are not limited to) the following topic areas.
+We are interested in work that discusses the challenges and opportunities for using machine learning in resource constrained environments. We define resource constrained broadly to refer to communities with limited resources required for machine learning training (limited compute) and/or inference (limited internet connectivity, high sensitivity to data prices or low bandwidth). The work can address any of the following:
 
-### Algorithms and Methods
+- An applied problem (discussion of challenges and opportunities deploying models to resource constrained environments),
+- General solutions to improve the efficiency of models (e.g. more efficient data sampling, algorithmic solutions like model pruning, quantization, federated learning, hardware solutions, IOT, efficient data sampling)
+- Or an open source engineering contribution (e.g. releasing open source code that helps the general community in some way).
 
-- Methods for collecting and generating training data within _data scarce_ (limited labeled data) settings (such as weak labels, model-based pre-labeling, teacher-student models, and transfer learning).
-- Machine learning techniques applied to limited data (e.g. active learning, few-shot and zero-shot learning).
-- Approaches to training and inference on resource constrained devices (such as model quantization, model compression, model distillation, low precision training, model pruning methods, and generalized model optimizations).
-- Alternative learning methods coupled with deep models targeted for low resources settings.
+### Submission Instructions
 
-### Industry Experience and Applications
+Please use the form below to submit your talk.
 
-- Data science and engineering practices that help balance accuracy/latency tradeoffs while scaling ML models in low resource environments.
-- Measuring success or impact that goes beyond algorithmic metrics (such as accuracy or F1 score).
-- Data-driven techniques that support public institutions (government transparency, healthcare, education etc).
+<div class="update">
+      Submit here <a href="https://docs.google.com/forms/d/e/1FAIpQLScQMBXpfIiJWcKQ23qIno4B_anQG6EfUNN3FgeaUqZ2vfX6qg/viewform?usp=sf_link">spotlight talk here</a>.
+</div>
 
-### Social and Policy Topics
+Successful applicants will each give a 8 minute oral presentation (with slides) followed by 2 minutes of questions from the audience. When making your slides, remember that you will only have 8 minutes to present, so less than 10 and at most 15 slides are recommended. Slides can be in Microsoft Powerpoint, a link to Google slides or a PDF of the slides.
 
-- Successful AI solution implementation stories which work at a small scale (e.g. local institution, city) that could be applied at larger scale.
-- Connecting skilled professionals with the organizations that deeply understand the local problems.
-- Securing funding for proof-of-concept (POC) projects or for scaling existing POCs.
-- Building effective research and implementation teams, with a focus on challenges specific to developing regions such as countries in Africa.
-- When machine learning is NOT a viable option.
-- Strategies and policies enabling or enhancing AI/ML adoptions for developing countries.
-
-## Instructions
-
-### Submission types
-
-- Short papers and position pieces (up to 5 pages)
-- Problem statements and abstracts (up to 2 page)
-
-5-page submissions will be _eligible_ for oral or poster presentation. 2-page submissions will be presented as posters. Page limit applies to content only, excluding references.
-
-Ongoing work and papers that have appeared in a non-archival venue (workshops, arXiv, etc) are welcome. You may also submit work that has appeared in an archival venue in 2019 or 2020. Please note that submissions are non-archival.
+As a speaker, you will have the opportunity to have your work profiled and engage with fellow researchers. Need more guidance? See some of the spotlight talks profiled in the <a href="https://drive.google.com/file/d/1amEsiqnBkH7ZUMtwK900TEBLPWFyWXCZ/view?usp=sharing">previous ml at edge workshop</a>.
 
 ## Important Dates
 
-- Submissions deadline: ** xx 14, 2022**
-- Notification: xx 28, 2020 [Extended]
-- Camera ready: xx 20, 2020
-- Workshop: xx 26th, 2020
-
-Deadlines are at 11:59 EAT (East African Time, **EAT**). **EAT** is **UTC**+03:00.
+- Submission Deadline : Monday August 1st 2022
+- Notice of Acceptance : Monday August 15th 2022
+- Workshop Date : Friday August 26 2022

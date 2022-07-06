@@ -1,16 +1,16 @@
 theme: jekyll-theme-cayman
-description: "Machine Learning at the Edge Workshop, <br/> Deep Learning Indaba 2022.  Tunisia"
+description: "Machine Learning at the Edge Workshop, <br/> Friday August 26, <br/>Deep Learning Indaba 2022.  Tunisia"
 basepath: "mledge2022/"
 google_analytics: UA-156425047-1
 
 navigation:
   - text: HOME
     url: /
+  - text: CALL FOR SPOTLIGHT TALKS
+    url: /cfp.html
   - text: SCHEDULE
     url: /schedule.html
     layout: post
-  - text: CALL FOR SPOTLIGHT TALKS
-    url: /cfp.html
   - text: DATES
     url: /dates.html
     layout: project
