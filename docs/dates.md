@@ -1,8 +1,5 @@
 ## Important Dates
 
-- Submissions deadline: ** xx 14, 2022**
-- Notification: xx 28, 2020 [Extended]
-- Camera ready: xx 20, 2020
-- Workshop: xx 26th, 2020
-
-Deadlines are at 11:59 EAT (East African Time, **EAT**). **EAT** is **UTC**+03:00.
+- Submission Deadline : Monday August 1st 2022
+- Notice of Acceptance : Monday August 15th 2022
+- Workshop Date : Friday August 26 2022
