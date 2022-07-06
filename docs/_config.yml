@@ -6,16 +6,15 @@ google_analytics: UA-156425047-1
 navigation:
   - text: HOME
     url: /
-  - text: CALL FOR PAPERS
-    url: /cfp.html
-  - text: CALL FOR DEMOS
-    url: /demos.html
-  - text: DATES
-    url: /dates.html
-    layout: project
   - text: SCHEDULE
     url: /schedule.html
     layout: post
+  - text: CALL FOR SPOTLIGHT TALKS
+    url: /cfp.html
+  - text: DATES
+    url: /dates.html
+    layout: project
+
   # - text: PAPERS
   #   url: /papers.html
   #   layout: post
