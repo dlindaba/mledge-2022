@@ -14,29 +14,21 @@
        We are excited to bring you the Machine Learning at the Edge Workshop once again at Deep Learning Indaba! Learn more about how to submit a demo or spotlight talk here.
 </div>
 
-ML on edge devices is ..... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-
-At this workshop, we aim to .... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+Most of the world is using machine learning in resource-constrained environments. In contrast, modern machine learning models are becoming larger, with computationally intensive training procedures.. The rise of these larger models have also led to efforts to make machine learning more efficient and deployable at the edge. In this workshop, we put a focus on efficiency research and ML deployment at the edge.
 
 ## Keynote Speakers
 
 <div>
     <div class="iblock headshotbox "> 
-        <img src="{{basepath}}/images/speakers/person.png" class="headshot">
-        <div class="headshotname"> Speaker </div>
-            <a href="https://www.linkedin.com/" class="headshotaffiliation"> Engr at XX </a>
+        <img src="{{basepath}}/images/speakers/kate.jpeg" class="headshot">
+        <div class="headshotname"> Kate Kallot </div>
+            <a href="https://www.linkedin.com/in/kathleen-kallot/" class="headshotaffiliation"> Co-Founder, CIO, Mara </a>
     </div>
     
    <div class="iblock headshotbox "> 
-        <img src="{{basepath}}/images/speakers/person.png" class="headshot">
-        <div class="headshotname"> Speaker </div>
-            <a href="https://www.linkedin.com/" class="headshotaffiliation"> Engr at XX </a>
-    </div>
-
-     <div class="iblock headshotbox ">
-        <img src="{{basepath}}/images/speakers/person.png" class="headshot">
-        <div class="headshotname"> Speaker </div>
-            <a href="https://www.linkedin.com/" class="headshotaffiliation"> Engr at XX </a>
+        <img src="{{basepath}}/images/speakers/akhil.jpeg" class="headshot">
+        <div class="headshotname"> Akhil Mathur </div>
+            <a href="https://www.linkedin.com/in/akhilmathur/?originalSubdomain=uk" class="headshotaffiliation"> Principal Research Scientist @ Bell Labs </a>
     </div>
 
 </div>
