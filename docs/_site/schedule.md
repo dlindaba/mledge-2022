@@ -7,7 +7,7 @@ The schedule is as follows. All times are in Tunis time (GMT+1).
 - Welcome [20 mins] Organizers []
 - Tutorial [45 mins]
 - Spotlight talks 1 [3x 10 min talks]
-- Demo introduction [10 mins – extends into break 10:30- 14:00] Edge Impulse (Daniel)
+- Demo introduction [10 mins – extends into break 10:30- 14:00] Edge Impulse
 
 ## 14h00 - 16h00
 
@@ -15,7 +15,7 @@ The schedule is as follows. All times are in Tunis time (GMT+1).
 - Invited Keynote Talk [30 mins] Akhil Mathur
 - Invited Keynote Talk [30 mins] Kenneth Heathfield
 - Spotlight talks 2 [3x 10 min talks]
-- Demo introduction [10 mins – extends into break 16:00- 16:30] Sparsity +
+- Demo introduction [10 mins – extends into break 16:00- 16:30]
 
 ## 16:30 -17:30
 
