@@ -4,18 +4,16 @@ The schedule is as follows. All times are in Tunis time (GMT+1).
 
 ## 8h30 - 10h30
 
-- Welcome [20 mins] Organizers []
-- Tutorial [45 mins]
-- Spotlight talks 1 [3x 10 min talks]
-- Demo introduction [10 mins – extends into break 10:30- 14:00] Edge Impulse
+- Welcome [20 mins] Organizers [Kale-ab Tessera, Wiebke Toussaint, Sara Hooker]
+- Spotlight talks [4 x 8 min talks]
+- Tutorial [45 mins] Kenneth Heafield
+- Demo introduction [15 mins – extends into break 10:30- 14:00] Edge Impulse / Clinton Oduor
 
 ## 14h00 - 16h00
 
-- Invited Keynote talk [30 mins] Kate Kallot
-- Invited Keynote Talk [30 mins] Akhil Mathur
-- Invited Keynote Talk [30 mins] Kenneth Heathfield
-- Spotlight talks 2 [3x 10 min talks]
-- Demo introduction [10 mins – extends into break 16:00- 16:30]
+- Invited Keynote talk [40 mins] Kate Kallot
+- Invited Keynote Talk [40 mins] Akhil Mathur
+- Demo introduction [10 mins – extends into break 16:00 - 16:30] Victor Dibia
 
 ## 16:30 -17:30
 
