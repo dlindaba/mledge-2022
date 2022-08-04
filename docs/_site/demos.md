@@ -1,6 +1,6 @@
 ## Call For Demos
 
-We are interested in contributions that concretely demonstrate examples of ML on the edge. The ideal submission should address the following:
+We are interested in contributions that concretely demonstrate examples of ML Efficiency. The ideal submission should address the following:
 
 - Address a specific task (e.g., predict trip time on device)
 - Discuss the core ideas or methods applied

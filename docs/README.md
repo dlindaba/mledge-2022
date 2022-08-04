@@ -1,4 +1,4 @@
-## ML At The Edge
+## ML Efficiency
 
 {% if jekyll.environment  == "production" %}
 {% assign basepath = "/mledge-2022" %}
@@ -8,10 +8,10 @@
 
 <!-- ## Practical ML for Developing Countries: learning under limited/low resource scenarios -->
 
-### Machine Learning at the Edge Workshop, Friday, August 26 | Deep Learning Indaba 2022
+### Machine Learning Efficiency Workshop, Friday, August 26 | Deep Learning Indaba 2022
 
 <div class="update">
-       We are excited to bring you the Machine Learning at the Edge Workshop once again at Deep Learning Indaba! Learn more about how to submit a demo or <a href="{{basepath}}/cfp.html">spotlight talk here</a>.
+       We are excited to bring you the Machine Learning Efficiency Workshop once again at Deep Learning Indaba! Learn more about how to submit a demo or <a href="{{basepath}}/cfp.html">spotlight talk here</a>.
 </div>
 
 Most of the world is using machine learning in resource-constrained environments. In contrast, modern machine learning models are becoming larger, with computationally intensive training procedures.. The rise of these larger models have also led to efforts to make machine learning more efficient and deployable at the edge. In this workshop, we put a focus on efficiency research and ML deployment at the edge.
