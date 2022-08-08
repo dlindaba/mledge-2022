@@ -6,7 +6,14 @@ The schedule is as follows. All times are in Tunis time (GMT+1).
 
 - Welcome [20 mins] Organizers [Kale-ab Tessera, Wiebke Toussaint, Sara Hooker]
 - Spotlight talks [4 x 8 min talks]
-- Tutorial [45 mins] Kenneth Heafield
+- Keynote [45 mins] **Efficient machine translation at the edge** by Kenneth Heafield.
+
+Kenneth Heafield is an Associate Professor at the University of
+Edinburgh working on fast and often good machine translation. He
+launched local machine translation for Firefox [https://browser.mt/](https://browser.mt/) and
+ran [ParaCrawl](https://paracrawl.eu/) that mined the web for translations. Previously, he wrote KenLM to train large language models before they
+were cool.
+
 - Demo introduction [15 mins – extends into break 10:30- 14:00] Edge Impulse / Clinton Oduor
 
 ## 14h00 - 16h00

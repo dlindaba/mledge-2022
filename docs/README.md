@@ -34,7 +34,7 @@ Most of the world is using machine learning in resource-constrained environments
      <div class="iblock headshotbox ">
         <img src="{{basepath}}/images/speakers/kenneth.jpg" class="headshot">
         <div class="headshotname">Kenneth Heafield</div>
-            <a href="https://kheafield.com/" class="headshotaffiliation">Reader, University of Edinburgh </a>
+            <a href="https://kheafield.com/" class="headshotaffiliation">Associate Professor, University of Edinburgh </a>
     </div>
 
 </div>
