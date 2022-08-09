@@ -28,7 +28,7 @@ Most of the world is using machine learning in resource-constrained environments
    <div class="iblock headshotbox "> 
         <img src="{{basepath}}/images/speakers/akhil.jpeg" class="headshot">
         <div class="headshotname"> Akhil Mathur </div>
-            <a href="https://www.linkedin.com/in/akhilmathur/?originalSubdomain=uk" class="headshotaffiliation"> Principal Research Scientist @ Bell Labs </a>
+            <a href="https://akhilmathurs.github.io/" class="headshotaffiliation"> Principal Research Scientist @ Bell Labs </a>
     </div>
 
      <div class="iblock headshotbox ">

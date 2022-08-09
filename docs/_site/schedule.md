@@ -6,7 +6,7 @@ The schedule is as follows. All times are in Tunis time (GMT+1).
 
 - Welcome [20 mins] Organizers [Kale-ab Tessera, Wiebke Toussaint, Sara Hooker]
 - Spotlight talks [4 x 8 min talks]
-- Keynote [45 mins] **Efficient machine translation at the edge** by Kenneth Heafield.
+- Keynote [45 mins] **Efficient machine translation at the edge** by [Kenneth Heafield](https://kheafield.com/).
 
 Kenneth Heafield is an Associate Professor at the University of
 Edinburgh working on fast and often good machine translation. He
@@ -18,8 +18,16 @@ were cool.
 
 ## 14h00 - 16h00
 
-- Invited Keynote talk [40 mins] Kate Kallot
-- Invited Keynote Talk [40 mins] Akhil Mathur
+- Invited Keynote talk [40 mins] [Kate Kallot](https://www.linkedin.com/in/kathleen-kallot/)
+
+Kate Kallot (she/her) is the head of emerging areas at NVIDIA. In this role, Kate oversees ecosystem, strategic alliances and developer relations for emerging markets, segments and use cases. She works closely with partners and influencers to create disruptive AI applications and aims to build a truly global and inclusive AI community. Prior to NVIDIA, Kate spent close to a decade at various semiconductor companies holding product, ecosystem and business positions in AI, computer vision, and IoT. Kate has won multiple accolades throughout her career, including Business Insider Top 100 Business Transformers 2020 and VentureBeat Women in AI Rising Star 2020.
+
+- Invited Keynote Talk [40 mins] [Akhil Mathur](https://akhilmathurs.github.io/)
+
+I work as a Principal Research Scientist and Tech Lead for Machine Learning at Nokia Bell Labs in Cambridge. I am also a Visiting Industry Fellow at the University of Cambridge and serve on the Editorial Board of ACM IMWUT journal as an Associate Editor. From 2019-2021, I was a member of the ACM Future of Computing Academy.
+My research interests are broadly in machine learning and mobile systems. Currently, I am working on projects involving Federated Learning, Self-Supervised Learning, On-Device ML, and Algorithmic Fairness — all in the context of mobile and embedded devices. In addition, I am also interested in exploring the design of novel ML-driven sensory systems and applications. Previously, I have done research in the areas of Ubiquitous Computing, Human-Computer Interaction, and ICT4D. I am a recipient of the Wolfond Fellowship at the University of Toronto, the mBillionth Award South Asia, and two Best Paper Honorable Mention Awards. My research has been covered by several media organizations including the New Yorker, Financial Times, Livemint and Canadian Broadcasting Corporation.
+I hold a Ph.D. in Machine Learning from the University College London where I worked under the supervision of Dr. Nic Lane and Prof. Nadia Berthouze. I also hold a Masters in Computer Science from the University of Toronto and a B.Tech. from DA-IICT where I was awarded the President's Gold Medal.
+
 - Demo introduction [10 mins – extends into break 16:00 - 16:30] Victor Dibia
 
 ## 16:30 -17:30
