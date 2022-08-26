@@ -20,9 +20,9 @@ Most of the world is using machine learning in resource-constrained environments
 
 <div>
     <div class="iblock headshotbox "> 
-        <img src="{{basepath}}/images/speakers/kate.jpeg" class="headshot">
-        <div class="headshotname"> Kate Kallot </div>
-            <a href="https://www.linkedin.com/in/kathleen-kallot/" class="headshotaffiliation"> Co-Founder, CIO, Mara </a>
+        <img src="{{basepath}}/images/speakers/jonathan.jpg" class="headshot">
+        <div class="headshotname"> Jonathan Richard Schwarz </div>
+            <a href="https://jonathan-schwarz.github.io/" class="headshotaffiliation"> Senior Research Scientist at DeepMind  </a>
     </div>
     
    <div class="iblock headshotbox "> 
@@ -52,11 +52,11 @@ Most of the world is using machine learning in resource-constrained environments
     </div>
 
      <div class="iblock headshotbox ">
-     <a   target='_blank'  href="https://www.sarahooker.me/">
+     <a   target='_blank'  href="https://situnayake.com">
        <img src="{{basepath}}/images/organizers/daniel.jpeg" class="headshot">
       </a>
         <div class="headshotname"> Daniel Situnayake</div>
-        <a href="https://www.linkedin.com/in/situnayake/"  target='_blank' class="headshotaffiliation"> Edge Impulse
+        <a href="https://situnayake.com"  target='_blank' class="headshotaffiliation"> Edge Impulse
 
   </a>
     </div>
