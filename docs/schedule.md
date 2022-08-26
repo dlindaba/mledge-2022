@@ -18,9 +18,9 @@ were cool.
 
 ## 14h00 - 16h00
 
-- Invited Keynote talk [40 mins] [Kate Kallot](https://www.linkedin.com/in/kathleen-kallot/)
+- Invited Keynote talk [40 mins] [ Jonathan Richard Schwarz](https://jonathan-schwarz.github.io/)
 
-Kate Kallot (she/her) is the head of emerging areas at NVIDIA. In this role, Kate oversees ecosystem, strategic alliances and developer relations for emerging markets, segments and use cases. She works closely with partners and influencers to create disruptive AI applications and aims to build a truly global and inclusive AI community. Prior to NVIDIA, Kate spent close to a decade at various semiconductor companies holding product, ecosystem and business positions in AI, computer vision, and IoT. Kate has won multiple accolades throughout her career, including Business Insider Top 100 Business Transformers 2020 and VentureBeat Women in AI Rising Star 2020.
+Jonathan is a Senior Research Scientist at DeepMind and a PhD Candidate at University College London. He is advised by Yee Whye Teh and Peter Latham and work on problems at the intersection of Probabilistic Modelling, Sparsity and Meta & Continual learning.
 
 - Invited Keynote Talk [40 mins] [Akhil Mathur](https://akhilmathurs.github.io/)
 
